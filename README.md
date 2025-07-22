@@ -19,7 +19,7 @@ I'm a Learner, Developer, and Teacher!!
 <h2 align="left">👤 Profile Visitors:</h2>
 <p align="left">
 <a href="https://rojansapkota.com.np" target="_blank">
-<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" alt="Visitor Counter"/>
+<img src="https://profile-counter.deno.dev/rojansapkota/count.svg" alt="Visitor Counter"/>
 </a>
 </p>
 
