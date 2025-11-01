@@ -7,13 +7,13 @@ I'm a Learner, Developer, and Teacher!!
 ---------------------------------------
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [here](http://rojansapkota.com.np)
 * ⚙️  See my projects at [here](http://rojansapkota.com.np/projects)
+* 🖥️  See my portfolio at [here](http://rojansapkota.com.np)
 * ✉️  You can contact me at [github@rojansapkota.com.np](mailto:github@rojansapkota.com.np)
-* 🚀  I'm currently working on [Many Freelance Projects](http://techferr.github.io)
+* 🚀  I'm currently working on [Many Freelance Projects](http://rojansapkota.com.np/projects)
 * 🧠  I'm learning about new upcoming and recent technology
 * 🤝  I'm open to collaborating on interesting projects.
-* 🥅  2024 Goals: Contribute more to projects.
+* 🥅  2026 Goals: Contribute more to projects.
 * ⚡  Fun fact: I love to code.
 
 <h2 align="left">👤 Profile Visitors:</h2>
