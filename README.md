@@ -43,7 +43,14 @@ I'm a Learner, Developer, and Teacher!!
 --> 
 ### 💰 Support Me
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payrojan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rojansapkota) [![Wise](https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white)](https://rojansapkota.com.np/wise)
-
+<a href="https://paypal.me/payrojan" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+</a>
+<a href="https://ko-fi.com/rojansapkota" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
+</a>
+<a href="https://rojansapkota.com.np/wise" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white" alt="Wise">
+</a>
 
 <!-- Thanks to GPRM FOR THIS TEMPLATE -->
