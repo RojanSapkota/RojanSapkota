@@ -31,7 +31,7 @@ I'm a Learner, Developer, and Teacher!!
 </p>
 
 ### 📊 Github Stats
-![RojanSapkota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RojanSapkota&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanSapkota&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![RojanSapkota's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rojansapkota?cardType=level&theme=blue-green&fontFamily=&preferLogin=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanSapkota&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![RojanSapkota's Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2003&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green)
 
 ### 💻 Tech Stack:
