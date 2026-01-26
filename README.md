@@ -19,7 +19,9 @@ I'm a Learner, Developer, and Teacher!!
 <h2 align="left">👤 Profile Visitors:</h2>
 <p align="left">
 <a href="https://rojansapkota.com.np" target="_blank">
-<img src="https://views-counter.vercel.app/badge?pageId=rojansapkota&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=rojansapkota&leftColor=000000&rightColor=0adb3f&type=total&label=Total+Visitors&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=rojansapkota&leftColor=000000&rightColor=0adb3f&type=daily&label=Daily+Visitors&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=rojansapkota&leftColor=000000&rightColor=0adb3f&type=unique&label=Unique+Visitors&style=none" alt="Views Counter">
 </a>
 </p>
 
